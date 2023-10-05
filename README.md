@@ -1,1 +1,3 @@
-# dynamo-ios-framework
+# Dyanmo-iOS-Framework
+
+A description of this package.
